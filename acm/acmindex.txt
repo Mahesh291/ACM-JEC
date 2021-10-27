@@ -25,7 +25,7 @@ img.li:hover {
 </body>
 </html>
 <p><br />
-<title>Coming Soon</title>
+<title> forthcoming </title>
 <!--===============================================================================================--></p>
 <link href="css/util.css" rel="stylesheet" type="text/css" />
 <link href="css/main.css" rel="stylesheet" type="text/css" /><!--===============================================================================================-->
